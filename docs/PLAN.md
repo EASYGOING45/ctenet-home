@@ -73,9 +73,13 @@
 - [x] 修复页面区块在浏览器截图中的可见性问题
 - [x] 生成新的浏览器截图归档
 - [x] 补充 About / Contact 细节层
+- [x] 完成 Persona 风格方向重构
+- [x] 用 GitHub 真实内容补强 Identity / Projects 文案
+- [x] 重构仓库目录结构（`src/styles` / `src/scripts` / `src/assets`）
+- [x] 新增 `README.md`
 - [ ] 继续优化首屏气场与项目区层次
 
 ### 下一步
-- 继续用 GitHub 真实内容补强 Identity / Projects 文案
-- 保持 Persona 风格方向，继续统一整站视觉语言
-- 生成新一轮浏览器截图，并同步飞书进度
+- 确认重构后的目录结构运行正常
+- 继续优化首屏 opening 与 loading
+- 继续提升 Projects 区块的作品感与真实度
